@@ -1,0 +1,787 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1083; Version 2009; 64bit' Language: 'ja' Physical Memory: 16227 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/akuro/Desktop/tm/ActionRPG_ForUnity/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58668
+Successfully changed project path to: C:/Users/akuro/Desktop/tm/ActionRPG_ForUnity/New Unity Project
+C:/Users/akuro/Desktop/tm/ActionRPG_ForUnity/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/akuro/Desktop/tm/ActionRPG_ForUnity/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002270 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 21.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000643 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.5 MB.
+System memory in use after: 59.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1567.
+Total: 1.471700 ms (FindLiveObjects: 0.099500 ms CreateObjectMapping: 0.025300 ms MarkObjects: 1.277100 ms  DeleteObjects: 0.069100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/model/human
+  artifactKey: Guid(c9c0f482e08d60c43ae0b78a4c7e2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human using Guid(c9c0f482e08d60c43ae0b78a4c7e2ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86b8f80b4a02717aea8ba09165e771c') in 0.007961 seconds
+  Import took 0.009617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/model/human/human.fbx
+  artifactKey: Guid(3b287367ad1b28e4896a1196bff6d18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/human.fbx using Guid(3b287367ad1b28e4896a1196bff6d18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec2157a106b62f128b6cbf310affe53') in 0.248468 seconds
+  Import took 0.250983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/model/human/human_no_bone.fbx
+  artifactKey: Guid(0191cd1adc06a0648b133eb1a3980f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/human_no_bone.fbx using Guid(0191cd1adc06a0648b133eb1a3980f9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0774dcd0aa32bfd51534ab4a004c335a') in 0.045288 seconds
+  Import took 0.047163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/model/human/human_idle.fbx
+  artifactKey: Guid(a13fbecec158d9f478a03cd183ebba67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/human_idle.fbx using Guid(a13fbecec158d9f478a03cd183ebba67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f650f2c1984074406d7327d2241c89c9') in 0.039562 seconds
+  Import took 0.042101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/model/human/human_no_mesh.fbx
+  artifactKey: Guid(3997c59f32abf2b4a986e5dfa97d9ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/human_no_mesh.fbx using Guid(3997c59f32abf2b4a986e5dfa97d9ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e9f6f9f0f8940277ee7cd93f77c1a2') in 0.035167 seconds
+  Import took 0.037000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036884 seconds.
+  path: Assets/model/human/texture
+  artifactKey: Guid(0a5c885f56b5ddc4d95dfebf993b25ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/texture using Guid(0a5c885f56b5ddc4d95dfebf993b25ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5bafe4eee0fb8c9cc6126c66a4e127') in 0.007224 seconds
+  Import took 0.008964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.560741 seconds.
+  path: Assets/model/human/texture/Materials
+  artifactKey: Guid(2ef86fb1587380549a2decb226283fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/human/texture/Materials using Guid(2ef86fb1587380549a2decb226283fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adb72e2a888ef0395bd9cef76757719') in 0.007372 seconds
+  Import took 0.009327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.335886 seconds.
+  path: Assets/model/Rin New 3d - Anime Style
+  artifactKey: Guid(1dd33e2688eb6184491c4234ab7ec427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Rin New 3d - Anime Style using Guid(1dd33e2688eb6184491c4234ab7ec427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b76d2bac89c79ac4d5af074f9786bed') in 0.008395 seconds
+  Import took 0.010159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049858 seconds.
+  path: Assets/model/Rin New 3d - Anime Style/Rin New Prefab.prefab
+  artifactKey: Guid(196405dd91626fd4c8aa9160f83204a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/Rin New 3d - Anime Style/Rin New Prefab.prefab using Guid(196405dd91626fd4c8aa9160f83204a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15aac5a313dabe00379319a42a1da3a4') in 0.086494 seconds
+  Import took 0.089926 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.2 MB.
+System memory in use after: 76.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.427500 ms (FindLiveObjects: 0.121500 ms CreateObjectMapping: 0.031200 ms MarkObjects: 1.228800 ms  DeleteObjects: 0.045300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.223675 seconds.
+  path: Assets/model/AssassinGirl
+  artifactKey: Guid(17480bef0e8b689428e936151f65aa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/AssassinGirl using Guid(17480bef0e8b689428e936151f65aa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6fd5ee93d8a8e82fc54873b82b6cf49') in 0.010230 seconds
+  Import took 0.012519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002236 seconds.
+  path: Assets/model/AssassinGirl
+  artifactKey: Guid(17480bef0e8b689428e936151f65aa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/AssassinGirl using Guid(17480bef0e8b689428e936151f65aa6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6fd5ee93d8a8e82fc54873b82b6cf49') in 0.002650 seconds
+  Import took 0.004967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.769860 seconds.
+  path: Assets/model/sword/greatsword.fbx
+  artifactKey: Guid(5001eac90fcc2f4499eaa62d2d867aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/sword/greatsword.fbx using Guid(5001eac90fcc2f4499eaa62d2d867aad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a88af63f7f082c12465ea36a09730b09') in 0.081562 seconds
+  Import took 0.083655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/model/sword/greatsword.max
+  artifactKey: Guid(3a9549675cd55e64dbf06addfcb08a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/sword/greatsword.max using Guid(3a9549675cd55e64dbf06addfcb08a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c99c36930d9ce410f3c0392b5f82105') in 0.021180 seconds
+  Import took 0.023260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.616278 seconds.
+  path: Assets/FantasyMonster
+  artifactKey: Guid(9ece5ebabbc95c547bfea4e2b7bfb46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster using Guid(9ece5ebabbc95c547bfea4e2b7bfb46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539d1fd25957594b5d6000135483b1cc') in 0.010790 seconds
+  Import took 0.013006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.013191 seconds.
+  path: Assets/model/FantasyMonster/Skeleton
+  artifactKey: Guid(c0a2c53ed1e1da44f816d5b1fe9c96b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton using Guid(c0a2c53ed1e1da44f816d5b1fe9c96b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7fcb49dc63f37a95665fd7e51deb4a') in 0.008843 seconds
+  Import took 0.010808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.098467 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Character
+  artifactKey: Guid(7742a420d6ab567429418a77e09eea1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Character using Guid(7742a420d6ab567429418a77e09eea1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6647c4eb2f92770e9f72093a833394c') in 0.009279 seconds
+  Import took 0.011428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043044 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Character/Skeleton@Skin.FBX
+  artifactKey: Guid(5a35c5f0a89b9654d897ccd7c8f81bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Character/Skeleton@Skin.FBX using Guid(5a35c5f0a89b9654d897ccd7c8f81bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ccdf07926ff2b5c5c875c9c14e61e0') in 0.124986 seconds
+  Import took 0.127018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.530069 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani
+  artifactKey: Guid(cef05b779b50712488dc6e540211bc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani using Guid(cef05b779b50712488dc6e540211bc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f836f2b9d461cfb3cc56e9285c01fda') in 0.008617 seconds
+  Import took 0.011278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035147 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Attack.FBX
+  artifactKey: Guid(dfc15c633f0d98141920018f79a042a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Attack.FBX using Guid(dfc15c633f0d98141920018f79a042a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d72de8c8490256d247305c1db1e4a0') in 0.029647 seconds
+  Import took 0.031716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Skill.FBX
+  artifactKey: Guid(1e768688017709245aed3bb86453c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Skill.FBX using Guid(1e768688017709245aed3bb86453c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6567d6074a5956d708c0cb3802f588dc') in 0.029199 seconds
+  Import took 0.031134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Death.FBX
+  artifactKey: Guid(a749f4485b342b7469956010abf2ab25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Death.FBX using Guid(a749f4485b342b7469956010abf2ab25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b555ec2967914ccd17ff5dbdcc8ef8b0') in 0.030104 seconds
+  Import took 0.032410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Run.FBX
+  artifactKey: Guid(f57ee821486cd7b488adf1063a8dd207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Run.FBX using Guid(f57ee821486cd7b488adf1063a8dd207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc75a32fd5ad2ea1821a6c08a575a0b1') in 0.029216 seconds
+  Import took 0.031171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Idle.FBX
+  artifactKey: Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Idle.FBX using Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927c631fa21063fab929d9bff4b8c6ed') in 0.029109 seconds
+  Import took 0.030934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Damage.FBX
+  artifactKey: Guid(81d4af5a5190e3d4d88c97161d881bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Damage.FBX using Guid(81d4af5a5190e3d4d88c97161d881bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538f8d7af66d3cce3ba17d3e0c9db252') in 0.030010 seconds
+  Import took 0.031820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Knockback.FBX
+  artifactKey: Guid(6e0b4a05932877a4b89fb3fb32c3e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Knockback.FBX using Guid(6e0b4a05932877a4b89fb3fb32c3e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43423368e4657eb6056535b0a320d146') in 0.029418 seconds
+  Import took 0.031271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Walk.FBX
+  artifactKey: Guid(188f1042b5ff4644389fad5df1f98d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Walk.FBX using Guid(188f1042b5ff4644389fad5df1f98d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057262abce80d4d2558077fc42a22a1e') in 0.029648 seconds
+  Import took 0.031571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Stand.FBX
+  artifactKey: Guid(6f61bc53c41ba664fa527d3386ecfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Skeleton@Stand.FBX using Guid(6f61bc53c41ba664fa527d3386ecfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c21db6e52d1211ecf4dda79e4c8175b') in 0.027843 seconds
+  Import took 0.029650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.908503 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Materials
+  artifactKey: Guid(c30beb25debde9d4d85483271f66823a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Materials using Guid(c30beb25debde9d4d85483271f66823a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a88e4680280c983b8a9e8a058dd060f') in 0.006294 seconds
+  Import took 0.008322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058366 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Ani/Materials/skeleton_D.mat
+  artifactKey: Guid(b1494958bf9856a479bec1767c02878e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Ani/Materials/skeleton_D.mat using Guid(b1494958bf9856a479bec1767c02878e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3573737c30412e9fb2d9154662829e') in 0.016932 seconds
+  Import took 0.018924 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.843 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.6 MB.
+System memory in use after: 76.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.809900 ms (FindLiveObjects: 0.142300 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.572600 ms  DeleteObjects: 0.056700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.531117 seconds.
+  path: Assets/animation/AssassinGirl/attack_greatsword.fbx
+  artifactKey: Guid(b91aac2a38478ab4a88949dfc2c96011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/attack_greatsword.fbx using Guid(b91aac2a38478ab4a88949dfc2c96011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40d8dc0116d57979ce29d3d82ce48953') in 0.139738 seconds
+  Import took 0.142411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/animation/AssassinGirl/Idle_greatsword.fbx
+  artifactKey: Guid(71a3a0404c1720c488d6da61f74442b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/Idle_greatsword.fbx using Guid(71a3a0404c1720c488d6da61f74442b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbe7919b6228b8232d79d6370e66579') in 0.072978 seconds
+  Import took 0.074878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/animation/AssassinGirl/run_greatsword.fbx
+  artifactKey: Guid(a94e1f326707f8c44ae5e7c0c667af00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/run_greatsword.fbx using Guid(a94e1f326707f8c44ae5e7c0c667af00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cdc0674f3dcc142835d831588a4605') in 0.065448 seconds
+  Import took 0.067363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/animation/AssassinGirl/comboattack_greatsword.fbx
+  artifactKey: Guid(053d91b3ea1f1b948910992a76ddee4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/comboattack_greatsword.fbx using Guid(053d91b3ea1f1b948910992a76ddee4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebd1ffe25443c176f5be103c757ec3f5') in 0.068735 seconds
+  Import took 0.070694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/animation/AssassinGirl/walk_greatsword.fbx
+  artifactKey: Guid(b5de5c2e03a011e439a8e4d1b4ab85bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/walk_greatsword.fbx using Guid(b5de5c2e03a011e439a8e4d1b4ab85bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8692dda4e46309ce5d60966c74582610') in 0.064299 seconds
+  Import took 0.066235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.866321 seconds.
+  path: Assets/animation/AssassinGirl/AssassinGirl.controller
+  artifactKey: Guid(a2c55187b8d668044996b86dad654514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/AssassinGirl/AssassinGirl.controller using Guid(a2c55187b8d668044996b86dad654514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14606fa7d9ebd55d1ca1dab3e4dafdb5') in 0.011432 seconds
+  Import took 0.014267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.236307 seconds.
+  path: Assets/animation/PlayerAnimation.controller
+  artifactKey: Guid(d3ba590eca68fcc47bdc73b2bbb36256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/PlayerAnimation.controller using Guid(d3ba590eca68fcc47bdc73b2bbb36256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22868655e60211cfa5094689aaf05cc4') in 0.009522 seconds
+  Import took 0.012175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.803675 seconds.
+  path: Assets/animation/Skeleton
+  artifactKey: Guid(b0e059f1f0b1c004f9be96f8c2710183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton using Guid(b0e059f1f0b1c004f9be96f8c2710183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262bd11dc4e06bd2af530310cfee5da2') in 0.002405 seconds
+  Import took 0.004157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/animation/Skeleton
+  artifactKey: Guid(b0e059f1f0b1c004f9be96f8c2710183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton using Guid(b0e059f1f0b1c004f9be96f8c2710183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '262bd11dc4e06bd2af530310cfee5da2') in 0.002520 seconds
+  Import took 0.005699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.173789 seconds.
+  path: Assets/animation/Skeleton/Skeleton.controller
+  artifactKey: Guid(157a79f72a5de334ba9f132faaab3bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton/Skeleton.controller using Guid(157a79f72a5de334ba9f132faaab3bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ccfee7966b9ac0400313438e2ea05e') in 0.003223 seconds
+  Import took 0.005155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.806074 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Character/Materials
+  artifactKey: Guid(bd8a1b7e2a9f33b47a247f6c2f757f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Character/Materials using Guid(bd8a1b7e2a9f33b47a247f6c2f757f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6ec0c4881ffb5bdf4e5fc51f76e502') in 0.007557 seconds
+  Import took 0.009634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073058 seconds.
+  path: Assets/model/FantasyMonster/Skeleton/Character/Materials/skeleton_D.mat
+  artifactKey: Guid(ed14df0368fe53543907335c0e3902c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/model/FantasyMonster/Skeleton/Character/Materials/skeleton_D.mat using Guid(ed14df0368fe53543907335c0e3902c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f6f797a7b518356ad959809e41db597') in 0.010546 seconds
+  Import took 0.012412 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000684 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 76.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 1.656900 ms (FindLiveObjects: 0.123000 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.448600 ms  DeleteObjects: 0.057000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.414298 seconds.
+  path: Assets/animation/Skeleton/Skeleton@Idle.FBX
+  artifactKey: Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton/Skeleton@Idle.FBX using Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fce0bff060afbf98c2462b82ca80fb2') in 0.257969 seconds
+  Import took 0.260124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.830581 seconds.
+  path: Assets/animation/Skeleton/Materials
+  artifactKey: Guid(3b92e7a0377cebd4da8cd69ef34c8d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton/Materials using Guid(3b92e7a0377cebd4da8cd69ef34c8d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830ecda6aa7abf7114a74e506acbeb23') in 0.002873 seconds
+  Import took 0.004737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070599 seconds.
+  path: Assets/animation/Skeleton/Materials/skeleton_D.mat
+  artifactKey: Guid(375f202319efc1c44b63b423901093ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton/Materials/skeleton_D.mat using Guid(375f202319efc1c44b63b423901093ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e855908af6e79132a26dda235859aa6') in 0.022076 seconds
+  Import took 0.024508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.407219 seconds.
+  path: Assets/animation/Skeleton/Skeleton.controller
+  artifactKey: Guid(157a79f72a5de334ba9f132faaab3bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/animation/Skeleton/Skeleton.controller using Guid(157a79f72a5de334ba9f132faaab3bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529e7959c78464aabc4067bbab4acd58') in 0.005716 seconds
+  Import took 0.007995 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001753 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.485800 ms (FindLiveObjects: 0.106300 ms CreateObjectMapping: 0.026100 ms MarkObjects: 1.303100 ms  DeleteObjects: 0.049700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 1.816600 ms (FindLiveObjects: 0.139000 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.584400 ms  DeleteObjects: 0.056500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.333 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 2.303500 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.044800 ms MarkObjects: 2.004100 ms  DeleteObjects: 0.076900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 442.499669 seconds.
+  path: Assets/script/SkeletonController.cs
+  artifactKey: Guid(3edea807963f4fc40ba923ef5b0e5326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/SkeletonController.cs using Guid(3edea807963f4fc40ba923ef5b0e5326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df707e527d9bdbfcb466a27f3254f6d') in 0.017181 seconds
+  Import took 0.019242 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 1.668700 ms (FindLiveObjects: 0.108700 ms CreateObjectMapping: 0.038000 ms MarkObjects: 1.461300 ms  DeleteObjects: 0.060000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.243151 seconds.
+  path: Assets/script/PlayerController.cs
+  artifactKey: Guid(9a87488ebbe73da4d9e0cd7bb6b59a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/PlayerController.cs using Guid(9a87488ebbe73da4d9e0cd7bb6b59a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fe278a4ddf251dc2f54c75cb493e63') in 0.008205 seconds
+  Import took 0.010179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079958 seconds.
+  path: Assets/script/PlayerController.cs
+  artifactKey: Guid(9a87488ebbe73da4d9e0cd7bb6b59a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/PlayerController.cs using Guid(9a87488ebbe73da4d9e0cd7bb6b59a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fe278a4ddf251dc2f54c75cb493e63') in 0.002257 seconds
+  Import took 0.004368 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000761 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1640.
+Total: 1.532100 ms (FindLiveObjects: 0.142700 ms CreateObjectMapping: 0.038400 ms MarkObjects: 1.290500 ms  DeleteObjects: 0.059200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.423960 seconds.
+  path: Assets/script/SkeletonController.cs
+  artifactKey: Guid(3edea807963f4fc40ba923ef5b0e5326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/SkeletonController.cs using Guid(3edea807963f4fc40ba923ef5b0e5326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a786deff13a3b9ca355f7315bf0caf') in 0.004429 seconds
+  Import took 0.007431 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 1.968500 ms (FindLiveObjects: 0.230500 ms CreateObjectMapping: 0.072300 ms MarkObjects: 1.595000 ms  DeleteObjects: 0.069300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.934500 ms (FindLiveObjects: 0.151800 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.689500 ms  DeleteObjects: 0.061900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.9 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 1.657100 ms (FindLiveObjects: 0.123800 ms CreateObjectMapping: 0.030900 ms MarkObjects: 1.442000 ms  DeleteObjects: 0.059600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000767 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1652.
+Total: 1.915300 ms (FindLiveObjects: 0.142200 ms CreateObjectMapping: 0.039200 ms MarkObjects: 1.659200 ms  DeleteObjects: 0.073500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.038 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1655.
+Total: 1.543600 ms (FindLiveObjects: 0.131200 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.315700 ms  DeleteObjects: 0.060700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000817 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1658.
+Total: 1.599200 ms (FindLiveObjects: 0.117100 ms CreateObjectMapping: 0.029600 ms MarkObjects: 1.394000 ms  DeleteObjects: 0.057600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001005 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.0 MB.
+System memory in use after: 77.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1661.
+Total: 1.674600 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.446600 ms  DeleteObjects: 0.056900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 681.012777 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95df672b4aaba54310d34c83eef51bb8') in 0.055066 seconds
+  Import took 0.057417 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
